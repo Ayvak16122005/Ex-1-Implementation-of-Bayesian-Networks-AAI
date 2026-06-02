@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-1: Implementation of Bayesian Networks</H1>
 
-### Name: 
-### Register Number:
+### Name: KAVYA T
+### Register Number:2305003004
 
 
 ## Aim:
@@ -135,13 +135,16 @@ ax.margins(0.10)
 plt.axis("off")
 plt.show()
 
+
 ```
 
 ---
 
 ## Output:
 
+<img width="778" height="698" alt="image" src="https://github.com/user-attachments/assets/72176e4e-7664-474f-9378-e1a866590394" />
 
+<img width="482" height="485" alt="image" src="https://github.com/user-attachments/assets/7368eeb8-ce3f-4bee-ab2e-cae11879e059" />
 
 ---
 
